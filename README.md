@@ -27,7 +27,7 @@ A responsive e-commerce website for showcasing and selling trendy clothing and a
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/euii-ii/clothing-web
 ```
 
 2. Navigate to the project directory:
