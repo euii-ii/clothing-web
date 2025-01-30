@@ -27,7 +27,7 @@ A responsive e-commerce website for showcasing and selling trendy clothing and a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fashion-forward.git
+git clone 
 ```
 
 2. Navigate to the project directory:
