@@ -99,15 +99,3 @@ fashion-forward/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-Project Link: [https://github.com/yourusername/fashion-forward](https://github.com/yourusername/fashion-forward)
-
-## Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography
-- Unsplash for stock images
-- All contributors who helped shape this project
